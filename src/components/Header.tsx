@@ -16,9 +16,9 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <div className="bg-gradient-to-br from-yellow-400 to-orange-500 p-2 rounded-lg">
-              <span className="text-black font-bold text-xl">G2G</span>
+              <span className="text-black font-bold text-xl">GGE</span>
             </div>
-            <span className="hidden md:block text-xl font-bold">GameMarket</span>
+            <span className="hidden md:block text-xl font-bold">Gaming Goods Emporium</span>
           </div>
 
           {/* Search Bar */}
